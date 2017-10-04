@@ -19,6 +19,12 @@ Benchmark Redis vs ets for simple key value stuff
 
 ### HTML reports available in the ./reports folder
 
+https://minhajuddin.github.io/redis_vs_ets_showdown/reports/benchmark-1000.html  
+https://minhajuddin.github.io/redis_vs_ets_showdown/reports/benchmark-1000000.html  
+
+https://minhajuddin.github.io/redis_vs_ets_showdown/reports/benchmark-1000_comparison.html  
+https://minhajuddin.github.io/redis_vs_ets_showdown/reports/benchmark-1000000_comparison.html  
+
 
 ### Benchmark for 1000_000 records
 
